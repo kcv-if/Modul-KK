@@ -2,20 +2,11 @@
 
 > [!NOTE]
 > Program Studi Rekayasa Kecerdasan Aritifisial<br />
-> Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)
-
-> [!IMPORTANT]
-> <sup> Dosen         : Imam Mustafa Kamal, Ph.D. </sup> <br />
-> <sup>Lab Praktikum  : Ruangan IF-108 </sup> <br />
-> <sup>Hari, Jam      : Rabu, Jam 10.00 - 11.50 WIB </sup>
-
-> [!TIP]
-> <sup> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/) </sup> <br />
-> <sup> Email: imamkamal@its.ac.id</sup><br />
-> <sup> Room: IF-235</sup>
+> Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)<br />
+> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/)<br />
 
 
-## Konten Praktikum:
+## Daftar Isi
 ### 1. Pengantar Kecerdasan Komputasional <sub><sup>[_minggu #1_]</sup></sub> <br />
 Install tools berikut untuk praktikum:
 * [Python, numpy, matplotlib, pandas, seklearn, and scipy](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
@@ -57,5 +48,3 @@ Install tools berikut untuk praktikum:
 
 ### 7. Evaluasi Akhir Semester (EAS) <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
 * Final Project (Kelompok) :mortar_board:
-
-[:love_letter: survey](https://forms.gle/KVvhk7Xp8pVB9xbL7)
