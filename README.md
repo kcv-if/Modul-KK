@@ -3,7 +3,7 @@
 > [!NOTE]
 > Program Studi Rekayasa Kecerdasan Aritifisial<br />
 > Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)<br />
-> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/)<br />
+> Referensi: [buku](https://people.engr.tamu.edu/guni/csce642/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/)<br />
 
 
 ## Daftar Isi
@@ -17,11 +17,11 @@ Install tools berikut untuk praktikum:
 ### 2. Logic <sub><sup>[_minggu #2 - #4_]</sup></sub><br />
 * [`Panduan Praktikum Logic`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/2%20Panduan%20Praktikum%20Logic.pdf) 
 * [`Modul Logic`](https://github.com/kcv-if/Modul-KK/tree/main/Praktikum/2%20-%20Logical%20Agents)
-* [Logical Sentences](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
-* [Operators for Constructing Logical Sentences](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
-* [Propositional Knowledge Bases](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
-* [Wumpus World Knowledge Bases](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
-* [Inference in Propositional Knowledge Base](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [Logical Sentences](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [Operators for Constructing Logical Sentences](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [Propositional Knowledge Bases](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [Wumpus World Knowledge Bases](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [Inference in Propositional Knowledge Base](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * [`Tugas II`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/Tugas%202/Tugas2%20logical%20agents.pdf) :mortar_board:
   
 ### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
