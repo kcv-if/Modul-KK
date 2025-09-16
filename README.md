@@ -22,4 +22,4 @@ Install tools berikut untuk praktikum:
 * [Propositional Knowledge Bases](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * [Wumpus World Knowledge Bases](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * [Inference in Propositional Knowledge Base](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
-* [`Tugas II`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/Tugas%202/Tugas2%20logical%20agents.pdf) :mortar_board:
+* [`Tugas II`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/Tugas%202/Tugas%202%20logic.pdf) :mortar_board:
