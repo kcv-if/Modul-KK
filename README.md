@@ -23,3 +23,12 @@ Install tools berikut untuk praktikum:
 * [Wumpus World Knowledge Bases](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * [Inference in Propositional Knowledge Base](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * [`Tugas II`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/2%20-%20Logical%20Agents/Tugas%202/Tugas2%20logical%20agents.pdf) :mortar_board:
+
+### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
+* [`Panduan Praktikum Fuzzy Logic`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/3%20Panduan%20praktikum%20fuzzy.pdf)
+* [`Modul Fuzzy`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/README.md)
+* [Basic Fuzzy Logic](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Logic.ipynb)
+* [Fuzzy Logic Mamdani](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Logic.ipynb)
+* [Fuzzy Logic Sugeno](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_sugeno.ipynb)
+* [Fuzzy Logic Tsukamoto](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Tsukamoto.ipynb)
+* [`Tugas III`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Tugas%20Fuzzy.pdf) :mortar_board:
