@@ -26,7 +26,7 @@ Install tools berikut untuk praktikum:
 
 ### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
 * [`Panduan Praktikum Fuzzy Logic`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/3%20Panduan%20praktikum%20fuzzy.pdf)
-* [`Modul Fuzzy`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/README.md)
+* [`Modul Fuzzy`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Bahasa%20Indo/Fuzzy_(INA).ipynb)
 * [Basic Fuzzy Logic](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Logic.ipynb)
 * [Fuzzy Logic Mamdani](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Logic.ipynb)
 * [Fuzzy Logic Sugeno](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_sugeno.ipynb)
