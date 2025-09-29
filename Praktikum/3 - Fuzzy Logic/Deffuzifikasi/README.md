@@ -5,7 +5,7 @@ Ini adalah proses kita mengubah output fuzzy (yang masih bentuknya himpunan fuzz
 Karena simplenya hasil dari proses fuzzy inference masih berupa himpunan fuzzy (range kemungkinan) yang jadinya tidak bisa kita gunakan untuk pengambilan keputusan akhir. Oleh karena itu, diperlukan proses deffuzifikasi ini untuk mengubah menjadi satu nilai crisp.
 
 ## Kira kira begini
-![Workflow]("../asset/Fuzzy Controller.png")
+![Workflow]("../asset/Fuzzy_Controller.png")
 
 ## Ada apa aja?
 Sebenernya banyak, tapi keknya yang dijelasin di kelas hanya
