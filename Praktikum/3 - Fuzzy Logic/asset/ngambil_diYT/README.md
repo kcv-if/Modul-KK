@@ -1,0 +1,1 @@
+# ini folder dadakan, nanti kalo dah bener ku hapus 😁😹
