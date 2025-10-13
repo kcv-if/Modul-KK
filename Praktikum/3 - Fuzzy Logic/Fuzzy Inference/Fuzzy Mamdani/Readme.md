@@ -6,6 +6,7 @@ Dari 2 antecandants menghasilkan 1 consequent, Di mamdani ada 2 cara
 
 Kalo diaturannya dibilang **or** kita ambil nilai keanggotaan fuzzy yang maksimumnya, kalo **and** kita ambil sebaliknya.
 
+
 ![Workflow](../../asset/ngambil_diYT/Screenshot%202025-10-01%20102833.png)
 
 Berikutnya kita gabungkan 2 graphnya, lalu kita truncate (kita cut) berdasarkan nilai pada rules sebelumnya
