@@ -77,10 +77,21 @@ kalau suhu (z) = 45 maka $\mu = 1$ -> "panas sepenuhnya" ga ada derajat keanggot
 
 Tapi... secara nilai $\mu$ jarang banget pas = 1. biasanya hasil operasi fuzzy itu hasilnya < 1, kecuali semua kondisi benar benar sempurna. dan kalau bisa nilai-nya 1? kita bisa ambil **nilai batas bawah plateu**. Contoh:
 
-Untuk μ = 1, z bisa 80, 81, 82, dst. (kan ngga unik), kita ambil 80-nya saja
+Untuk μ = 1, z bisa 80, 81, 82, dst. (kan ngga unik), kita ambil 80-nya saja. karena ketika sudah "jenuh", sistem menganggap-nya sudah maksimal. jadi kita tidak mencari nilai lebih besar lagi, cukup ambil batas awal saturasi-nya.
 
 
 ### Tahapan
 Ok buat tahapan sebenernya sama aja kayak sugeno, bedanya cuman gimana kita dapetin $z_i$ buat nentuin output tiap rule ($z_i$)
 
-Besok ku kerjain, ngantuk pak
+Jadi,
+
+| Langkah                                 | **Sugeno**                                                                                                                                                | **Tsukamoto**                                                                                                                         |
+| :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| **(1) Fuzzifikasi**                     | Sama aja, ubah input crisp jadi derajat keanggotaan fuzzy                                                                                                    | Sama                                                                                                                                  |
+| **(2) Inferensi (Rule Evaluation)**     | Hitung **firing strength αᵢ = μA(x) × μB(y)** (atau min).                                                                                                 | Sama                                                                                                                                  |
+| **(3) Penentuan Output Tiap Rule (zᵢ)** | Gunakan **fungsi linear atau konstanta** (misal zᵢ = 0.4x + 0.6y + 2).                                                                                    | Dapatkan zᵢ dari **fungsi keanggotaan output yang monoton** dengan cara **membalik (invers) μ_output(zᵢ) = αᵢ**.                      |
+| **(4) Agregasi / Kombinasi Rule**       | Hitung **rata-rata tertimbang:** ![formula](https://latex.codecogs.com/png.latex?z%20=%20%5Cfrac%7B%5Csum%28%5Calpha_i%20z_i%29%7D%7B%5Csum%5Calpha_i%7D) | Sama persis: ![formula](https://latex.codecogs.com/png.latex?z%20=%20%5Cfrac%7B%5Csum%28%5Calpha_i%20z_i%29%7D%7B%5Csum%5Calpha_i%7D) |
+| **(5) Defuzzifikasi**                   | Tidak dilakukan eksplisit, karena hasil sudah crisp.                                                                                                      | Sudah implicit di tiap rule (waktu cari zᵢ dari μ_output⁻¹).                                                                          |
+
+
+
