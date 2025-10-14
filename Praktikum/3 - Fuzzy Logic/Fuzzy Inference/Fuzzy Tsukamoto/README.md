@@ -81,9 +81,9 @@ Untuk μ = 1, z bisa 80, 81, 82, dst. (kan ngga unik), kita ambil 80-nya saja. k
 
 
 ### Tahapan
-Ok buat tahapan sebenernya sama aja kayak sugeno, bedanya cuman gimana kita dapetin $z_i$ buat nentuin output tiap rule ($z_i$)
+Ok, buat tahapan sebenernya sama aja kayak sugeno asli, bedanya cuman gimana kita nentuin output tiap rule-nya ($z_i$)
 
-Jadi,
+Jadi kira kira gini kalo dibandingin sama sugeno:
 
 | Langkah                                 | **Sugeno**                                                                                                                                                | **Tsukamoto**                                                                                                                         |
 | :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
@@ -93,5 +93,12 @@ Jadi,
 | **4. Agregasi / Kombinasi Rule**       | Hitung **rata-rata tertimbang:** ![formula](https://latex.codecogs.com/png.latex?z%20=%20%5Cfrac%7B%5Csum%28%5Calpha_i%20z_i%29%7D%7B%5Csum%5Calpha_i%7D) | Sama persis: ![formula](https://latex.codecogs.com/png.latex?z%20=%20%5Cfrac%7B%5Csum%28%5Calpha_i%20z_i%29%7D%7B%5Csum%5Calpha_i%7D) |
 | **5. Defuzzifikasi**                   | Tidak dilakukan eksplisit, karena hasil sudah crisp.                                                                                                      | Sudah implicit di tiap rule (waktu cari zᵢ dari μ_output⁻¹).                                                                          |
 
+**Oh iya, kalo nanti di gambar berubah notasi-nya, inget di sugeno udah kujelasin karena kita dari sugeno udah pakai lebih dulu yang gaya penulisan sekarang, jadi dipertahankan aja gitu sih intinya $z_i$ itu disini kita kasih nama $y_i$ dan $\alpha$ disini kita pakainya $Wy_i$**
 
+jadi pokoknya masih sama, kita akan menggunakan formula rata-rata tertimbang
+![Deffuzifikasi](../../asset/formula%20rata-rata%20tertimbang.png)
 
+Jadi gini cara dapetin nilai-nilainya
+![nilainya](../../asset/mencari_nilai_di_tsukamoto.png)
+
+**harusnya udah aman sih, palingan nanti tambahin contoh soal. tapi overall udah cukup jelas harusnya**

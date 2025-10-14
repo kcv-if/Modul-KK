@@ -65,7 +65,9 @@ kedua nilai tersebut (y_i dan w_i) akan digunakan pada tahap akhir untuk menghit
 
 ![Deffuzifikasi](../../asset/Sugeno_Deffuzifikasi.png)
 
-Intinya begini: ![formula](https://latex.codecogs.com/png.latex?z%20=%20%5Cfrac%7B%5Csum%20%28w_i%20z_i%29%7D%7B%5Csum%20w_i%7D)
+Intinya begini: ![formula](https://latex.codecogs.com/png.latex?z%20=%20%5Cfrac%7B%5Csum%20%28W_y_i%20y_i%29%7D%7B%5Csum%20w_i%7D)
+
+Dimana, $Wy_i$ itu biasanya ditulis sebagai $\alpha$ dan $y_i$ ditulis sebagai $z_i$. dan karena telanjur kita pakai gaya penulisan pertama  
 
 Ini buat mendapatkan nilai Wy_i:
 ![wy_i](../../asset/wy_i.png)
