@@ -65,14 +65,8 @@ Jadi bagian datarnya ($\mu = 1$) dianggap "saturasi penuh", atau bagian dimana k
 
 misalnya kita ada himpunan fuzzy untuk "suhu panas" kayak gini
 
-$$
-\mu(z) =
-\begin{cases}
-0, & z \le 30 \\
-\dfrac{z - 30}{40 - 30}, & 30 < z < 40 \\
-1, & z \ge 40
-\end{cases}
-$$
+![contoh](../../asset/contoh.png)
+
 kalau suhu (z) = 45 maka $\mu = 1$ -> "panas sepenuhnya" ga ada derajat keanggotaan yang lebih tinggi lagi. Jadi bagian $\mu = 1$ tadi disebut "saturasi penuh" (atau ya boleh "plateu maksimum"). 
 
 Tapi... secara nilai $\mu$ jarang banget pas = 1. biasanya hasil operasi fuzzy itu hasilnya < 1, kecuali semua kondisi benar benar sempurna. dan kalau bisa nilai-nya 1? kita bisa ambil **nilai batas bawah plateu**. Contoh:
