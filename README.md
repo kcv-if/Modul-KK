@@ -32,3 +32,12 @@ Install tools berikut untuk praktikum:
 * [Fuzzy Logic Sugeno](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_sugeno.ipynb)
 * [Fuzzy Logic Tsukamoto](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Tsukamoto.ipynb)
 * [`Tugas III`](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Tugas%20Fuzzy.pdf) :mortar_board:
+
+### 4. Evaluasi Tengah Semester (ETS) <sub><sup>[_minggu #8_]</sup></sub> <br />
+* Tugas Project (Individu) :mortar_board:
+
+### 5. Probability dan Uncertainty <sub><sup>[_minggu #9 - #11_]</sup></sub> <br />
+* [Probability Distribution](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
+* [Bayesian Networks](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
+* [Hidden Markov Models](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
+* `Tugas IV` :mortar_board:
