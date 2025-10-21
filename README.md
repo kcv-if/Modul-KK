@@ -40,4 +40,4 @@ Install tools berikut untuk praktikum:
 * [Probability Distribution](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
 * [Bayesian Networks](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
 * [Hidden Markov Models](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
-* `Tugas IV` :mortar_board:
+<!-- * `Tugas IV` :mortar_board: -->
