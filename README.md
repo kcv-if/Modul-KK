@@ -40,4 +40,6 @@ Install tools berikut untuk praktikum:
 * [Probability Distribution](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
 * [Bayesian Networks](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
 * [Hidden Markov Models](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
-<!-- * `Tugas IV` :mortar_board: -->
+
+### 6. Genetic Algorithm <sub><sup>[_minggu #12_]</sup></sub> <br />
+* [Notebook: Genetic Algorithm](https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/Genetic_Algorithm(ID).ipynb)
