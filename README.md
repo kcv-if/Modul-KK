@@ -49,5 +49,5 @@ Install tools berikut untuk praktikum:
 
 ### 6. Genetic Algorithm <sub><sup>[_minggu #12_]</sup></sub> <br />
 
-- [Notebook: Genetic Algorithm (Bahasa Indonesia)](<https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/Genetic_Algorithm(ID).ipynb>)
-- [Notebook: GA Overview dari AIMA (Bahasa Indonesia)](<https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/GA_Overview(ID).ipynb>)
+- [Notebook: Genetic Algorithm](<https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/Genetic_Algorithm(ID).ipynb>)
+- [Notebook: GA Overview AIMA](<https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/GA_Overview(ID).ipynb>)
