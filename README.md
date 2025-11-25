@@ -51,3 +51,8 @@ Install tools berikut untuk praktikum:
 
 - [Notebook: Genetic Algorithm](<https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/Genetic_Algorithm(ID).ipynb>)
 - [Notebook: GA Overview AIMA](<https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/GA_Overview(ID).ipynb>)
+
+### 7. Particle Swarm Optimization <sub><sup>[_minggu #13_]</sup></sub> <br />
+- [Particle Swarm Optimization](<https://github.com/kcv-if/Modul-KK/blob/main/Praktikum/6%20-%20PSO/Particle-Swarm-Optimization.ipynb>)
+
+
